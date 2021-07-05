@@ -1,0 +1,107 @@
+// Created by Adebayo Akinbi
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+TEXT
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+verify all text for Portal Admin
+	verify all static text
+	verify all dynamic text on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
+verify all text for Regional Admin
+	verify all static text
+	verify all dynamic text on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
+verify all text for IRC Admin
+	verify all static text
+	verify all dynamic text on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
+verify all text for IRC User
+	verify all static text
+	verify all dynamic text on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
+/
+/
+/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+BUTTON
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+verify all button for Portal Admin
+	verify all static button
+	verify all dynamic button on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
+verify all button for Regional Admin
+	verify all static button
+	verify all dynamic button on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
+verify all button for IRC Admin
+	verify all static button
+	verify all dynamic button on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
+verify all button for IRC User
+	verify all static button
+	verify all dynamic button on
+		Regions
+		Branches
+		IRCs
+		Employers
+			Assigned Employers
+			Unassigned Employers
+		Assessments
+		Payments
+		Users
